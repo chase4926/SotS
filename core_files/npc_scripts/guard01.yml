@@ -1,0 +1,7 @@
+--- 
+name: Guard
+picture: guard.png
+message: |-
+  Halt!
+  You shall not pass!
+ignore_player: false

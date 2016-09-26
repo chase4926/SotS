@@ -1,0 +1,6 @@
+--- 
+name: Villager
+picture: bob.png
+message: |-
+  What was that!
+ignore_player: true

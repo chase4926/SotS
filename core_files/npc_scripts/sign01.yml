@@ -1,0 +1,8 @@
+--- 
+name: Sign
+picture: sign.png
+message: |-
+  North - Market
+  East  - Castle
+  South - Khedesh
+ignore_player: true

@@ -1,0 +1,7 @@
+--- 
+name: desert_villager03
+picture: arabic_man.png
+message: |-
+  Welcome to our
+  village!
+ignore_player: false

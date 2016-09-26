@@ -1,0 +1,364 @@
+# Logfile created on 2012-02-01 14:41:28 -0500 by logger.rb/25413
+I, [2012-02-01T14:41:28.549517 #1860]  INFO -- : Program Started
+I, [2012-02-01T14:41:34.024416 #1860]  INFO -- : Program Ended
+I, [2012-02-01T20:23:55.380422 #5168]  INFO -- : Program Started
+I, [2012-02-01T20:29:19.478959 #5168]  INFO -- : Program Ended
+I, [2012-03-05T12:07:40.149726 #972]  INFO -- : Program Started
+I, [2012-03-05T12:09:59.947726 #972]  INFO -- : Program Ended
+I, [2012-03-05T12:11:19.414816 #4568]  INFO -- : Program Started
+I, [2012-03-05T12:19:08.022629 #4568]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-05T12:19:08.967629 #4568]  INFO -- : Level market_past loaded.
+I, [2012-03-05T12:22:29.722629 #4568]  INFO -- : Program Ended
+I, [2012-03-08T11:55:09.830870 #4620]  INFO -- : Program Started
+I, [2012-03-08T11:55:29.363776 #4620]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-08T11:55:30.592968 #4620]  INFO -- : Level market_past loaded.
+I, [2012-03-08T11:56:18.005708 #4620]  INFO -- : Level intermediate loaded.
+I, [2012-03-08T11:58:02.588166 #4620]  INFO -- : Program Ended
+I, [2012-03-08T12:33:48.334887 #2628]  INFO -- : Program Started
+I, [2012-03-08T12:34:06.741636 #2628]  INFO -- : New game started with profile 'Save 4'
+I, [2012-03-08T12:34:07.816528 #2628]  INFO -- : Level market_past loaded.
+I, [2012-03-08T12:34:48.324477 #2628]  INFO -- : Level intermediate loaded.
+I, [2012-03-08T12:36:04.145589 #2628]  INFO -- : Level swamp loaded.
+I, [2012-03-08T12:36:39.318365 #4904]  INFO -- : Program Started
+I, [2012-03-08T12:36:54.102378 #4904]  INFO -- : New game started with profile 'Save 3'
+I, [2012-03-08T12:36:55.110479 #4904]  INFO -- : Level market_past loaded.
+I, [2012-03-08T12:37:22.321200 #4904]  INFO -- : Level intermediate loaded.
+I, [2012-03-08T12:37:58.949862 #4904]  INFO -- : Level swamp loaded.
+I, [2012-03-08T12:42:54.074372 #4904]  INFO -- : Level castle loaded.
+I, [2012-03-08T12:47:11.191592 #4904]  INFO -- : Game continued with profile 'Save 3'
+I, [2012-03-08T12:47:13.135592 #4904]  INFO -- : Level castle loaded.
+I, [2012-03-08T12:48:05.467592 #4904]  INFO -- : Program Ended
+I, [2012-03-08T12:56:54.484192 #4424]  INFO -- : Program Started
+I, [2012-03-08T12:57:11.420192 #4424]  INFO -- : Game continued with profile 'Save 1'
+I, [2012-03-08T12:57:11.835192 #4424]  INFO -- : Level intermediate loaded.
+I, [2012-03-08T12:57:45.469192 #4424]  INFO -- : Level swamp loaded.
+I, [2012-03-08T12:58:02.944192 #4424]  INFO -- : Level castle loaded.
+I, [2012-03-08T12:58:47.822192 #4424]  INFO -- : Level market loaded.
+I, [2012-03-08T12:59:37.747192 #4424]  INFO -- : Level lower_level loaded.
+I, [2012-03-08T12:59:53.937192 #4424]  INFO -- : Level forest loaded.
+I, [2012-03-08T13:03:33.387933 #4424]  INFO -- : Game continued with profile 'Save 1'
+I, [2012-03-08T13:03:33.695964 #4424]  INFO -- : Level forest loaded.
+I, [2012-03-08T13:03:55.888183 #4424]  INFO -- : Level dungeon_forest loaded.
+I, [2012-03-08T13:07:09.560548 #4424]  INFO -- : Level desert loaded.
+I, [2012-03-08T13:07:25.954187 #4424]  INFO -- : Level dungeon_forest loaded.
+I, [2012-03-08T13:07:41.973789 #4424]  INFO -- : Game continued with profile 'Save 1'
+I, [2012-03-08T13:07:42.282820 #4424]  INFO -- : Level dungeon_forest loaded.
+I, [2012-03-08T13:07:45.350127 #4424]  INFO -- : Level desert loaded.
+I, [2012-03-08T13:07:49.021494 #4424]  INFO -- : Level dungeon_forest loaded.
+I, [2012-03-08T13:07:51.953787 #4424]  INFO -- : Level desert loaded.
+I, [2012-03-08T13:11:54.900079 #4424]  INFO -- : Level dungeon_catacombs loaded.
+I, [2012-03-08T13:12:18.709460 #4424]  INFO -- : Level mountain loaded.
+I, [2012-03-08T13:13:11.403729 #4424]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T13:13:24.485037 #4424]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T13:14:02.928881 #4424]  INFO -- : Game continued with profile 'Save 1'
+I, [2012-03-08T13:14:03.082896 #4424]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T13:14:05.542142 #4424]  INFO -- : Level mountain loaded.
+I, [2012-03-08T13:14:45.785166 #4424]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T13:14:49.805568 #4424]  INFO -- : Level mountain loaded.
+I, [2012-03-08T13:40:32.890875 #4424]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T13:56:00.304808 #4424]  INFO -- : Level mountain loaded.
+I, [2012-03-08T14:00:27.793808 #4424]  INFO -- : New game started with profile 'Save 2'
+I, [2012-03-08T14:00:28.605808 #4424]  INFO -- : Level market_past loaded.
+I, [2012-03-08T14:19:18.985471 #4424]  INFO -- : Program Ended
+I, [2012-03-08T15:08:59.857950 #4252]  INFO -- : Program Started
+I, [2012-03-08T15:09:12.231484 #4252]  INFO -- : New game started with profile 'Save 4'
+I, [2012-03-08T15:09:13.295484 #4252]  INFO -- : Level market_past loaded.
+I, [2012-03-08T15:09:27.785484 #4252]  INFO -- : Level intermediate loaded.
+I, [2012-03-08T15:10:09.582484 #4252]  INFO -- : Level swamp loaded.
+I, [2012-03-08T15:10:39.762484 #4252]  INFO -- : Level castle loaded.
+I, [2012-03-08T15:11:29.998484 #4252]  INFO -- : Level market loaded.
+I, [2012-03-08T15:12:04.979484 #4252]  INFO -- : Level lower_level loaded.
+I, [2012-03-08T15:12:21.869484 #4252]  INFO -- : Level forest loaded.
+I, [2012-03-08T15:12:42.829484 #4252]  INFO -- : Level dungeon_forest loaded.
+I, [2012-03-08T15:13:26.510484 #4252]  INFO -- : Level desert loaded.
+I, [2012-03-08T15:13:58.473484 #4252]  INFO -- : Level dungeon_catacombs loaded.
+I, [2012-03-08T15:14:21.767484 #4252]  INFO -- : Level mountain loaded.
+I, [2012-03-08T15:17:20.374484 #4252]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T15:17:31.290484 #4252]  INFO -- : Level mountain loaded.
+I, [2012-03-08T15:17:54.322484 #4252]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T15:34:39.056274 #4252]  INFO -- : Program Ended
+I, [2012-03-08T15:35:57.509310 #4836]  INFO -- : Program Started
+I, [2012-03-08T15:36:05.153034 #4836]  INFO -- : Game continued with profile 'Save 4'
+I, [2012-03-08T15:36:05.284021 #4836]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T15:37:09.079641 #4836]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-08T15:37:52.961856 #4836]  INFO -- : Program Ended
+I, [2012-03-09T14:16:11.913935 #3800]  INFO -- : Program Started
+I, [2012-03-09T14:16:22.907128 #3800]  INFO -- : Game continued with profile 'Save 1'
+I, [2012-03-09T14:16:23.194100 #3800]  INFO -- : Level mountain loaded.
+I, [2012-03-09T14:16:27.416677 #3800]  INFO -- : Game continued with profile 'Save 2'
+I, [2012-03-09T14:16:28.242595 #3800]  INFO -- : Level market_past loaded.
+I, [2012-03-09T14:16:35.848834 #3800]  INFO -- : Game continued with profile 'Save 3'
+I, [2012-03-09T14:16:37.853633 #3800]  INFO -- : Level castle loaded.
+I, [2012-03-09T14:16:41.364282 #3800]  INFO -- : Game continued with profile 'Save 4'
+I, [2012-03-09T14:16:41.561263 #3800]  INFO -- : Level mountain_castle loaded.
+I, [2012-03-09T14:16:46.165802 #3800]  INFO -- : Program Ended
+I, [2012-03-09T14:17:09.276604 #516]  INFO -- : Program Started
+I, [2012-03-09T14:17:23.172703 #516]  INFO -- : Game continued with profile 'Save 1'
+I, [2012-03-09T14:17:23.966624 #516]  INFO -- : Level market loaded.
+I, [2012-03-09T14:19:49.201099 #516]  INFO -- : Program Ended
+I, [2012-03-09T14:26:20.356860 #4596]  INFO -- : Program Started
+I, [2012-03-09T14:26:29.894930 #4596]  INFO -- : Program Ended
+I, [2012-03-10T15:49:10.155395 #6732]  INFO -- : Program Started
+I, [2012-03-10T15:50:00.150255 #6732]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-10T15:50:01.016304 #6732]  INFO -- : Level market_past loaded.
+I, [2012-03-10T15:51:16.404616 #6732]  INFO -- : Level intermediate loaded.
+I, [2012-03-10T15:54:32.704844 #6732]  INFO -- : Level swamp loaded.
+I, [2012-03-10T15:57:19.576388 #6732]  INFO -- : Level castle loaded.
+I, [2012-03-10T15:58:41.595080 #6732]  INFO -- : Level castle loaded.
+I, [2012-03-10T15:58:51.335637 #6732]  INFO -- : Game continued with profile 'Save 1'
+I, [2012-03-10T15:58:52.852724 #6732]  INFO -- : Level castle loaded.
+I, [2012-03-10T15:59:22.006391 #6732]  INFO -- : Program Ended
+I, [2012-03-14T13:13:41.702685 #4456]  INFO -- : Program Started
+I, [2012-03-14T13:13:59.522895 #4456]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T13:14:00.384895 #4456]  INFO -- : Level market_past loaded.
+I, [2012-03-14T13:50:31.654892 #4456]  INFO -- : Level intermediate loaded.
+I, [2012-03-14T13:51:03.389892 #4456]  INFO -- : Level swamp loaded.
+I, [2012-03-14T13:51:21.505892 #4456]  INFO -- : Level castle loaded.
+I, [2012-03-14T14:02:48.115252 #6584]  INFO -- : Program Started
+I, [2012-03-14T14:02:52.675180 #6584]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:02:53.870180 #6584]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:02:59.350180 #6584]  INFO -- : Program Ended
+I, [2012-03-14T14:08:51.035997 #1784]  INFO -- : Program Started
+I, [2012-03-14T14:08:56.095119 #1784]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:08:57.016119 #1784]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:09:02.656119 #1784]  INFO -- : Program Ended
+I, [2012-03-14T14:09:08.884520 #11120]  INFO -- : Program Started
+I, [2012-03-14T14:09:12.048050 #11120]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:09:12.930050 #11120]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:09:20.972050 #11120]  INFO -- : Program Ended
+I, [2012-03-14T14:09:25.032121 #8540]  INFO -- : Program Started
+I, [2012-03-14T14:09:28.205452 #8540]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:09:29.091452 #8540]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:11:25.357452 #8540]  INFO -- : Program Ended
+I, [2012-03-14T14:11:33.287199 #2464]  INFO -- : Program Started
+I, [2012-03-14T14:11:36.990130 #2464]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:11:37.952130 #2464]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:12:02.777130 #2464]  INFO -- : Program Ended
+I, [2012-03-14T14:12:05.603840 #7848]  INFO -- : Program Started
+I, [2012-03-14T14:12:10.190171 #7848]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:12:11.023171 #7848]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:12:24.581171 #7848]  INFO -- : Program Ended
+I, [2012-03-14T14:14:18.321326 #10056]  INFO -- : Program Started
+I, [2012-03-14T14:14:22.246256 #10056]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:14:23.196256 #10056]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:16:58.094256 #10056]  INFO -- : Program Ended
+I, [2012-03-14T14:17:04.543050 #9820]  INFO -- : Program Started
+I, [2012-03-14T14:17:08.721782 #9820]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:17:09.620782 #9820]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:17:34.478782 #9820]  INFO -- : Program Ended
+I, [2012-03-14T14:17:39.350026 #11248]  INFO -- : Program Started
+I, [2012-03-14T14:17:42.601957 #11248]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:17:43.515957 #11248]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:21:52.708957 #11248]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:21:55.259957 #11248]  INFO -- : Program Ended
+I, [2012-03-14T14:22:14.905928 #9188]  INFO -- : Program Started
+I, [2012-03-14T14:22:18.416659 #9188]  INFO -- : Program Ended
+I, [2012-03-14T14:22:21.322367 #1352]  INFO -- : Program Started
+I, [2012-03-14T14:22:35.074099 #1352]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:22:35.899099 #1352]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:22:50.246099 #1352]  INFO -- : Program Ended
+I, [2012-03-14T14:22:55.023746 #10452]  INFO -- : Program Started
+I, [2012-03-14T14:22:59.126478 #10452]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:22:59.971478 #10452]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:24:13.275478 #10452]  INFO -- : Program Ended
+I, [2012-03-14T14:40:19.958657 #2132]  INFO -- : Program Started
+I, [2012-03-14T14:40:26.680257 #2132]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-14T14:40:27.524257 #2132]  INFO -- : Level market_past loaded.
+I, [2012-03-14T14:41:56.590257 #2132]  INFO -- : Program Ended
+I, [2012-03-15T12:27:28.741255 #2672]  INFO -- : Program Started
+I, [2012-03-15T12:27:32.988255 #2672]  INFO -- : New game started with profile 'Save 1'
+W, [2012-03-15T12:27:33.312255 #2672]  WARN -- : Error reading marshal file: "../core_files/levels/market_past/level_converted.dat"
+F, [2012-03-15T12:27:33.364255 #2672] FATAL -- : An undefined error has occurred
+F, [2012-03-15T12:27:33.364255 #2672] FATAL -- : undefined method `[]' for nil:NilClass (NoMethodError)
+C:/Users/162010364/Desktop/1.0/bin/map.rb:967:in `block (3 levels) in load_level'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:966:in `times'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:966:in `block (2 levels) in load_level'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:965:in `times'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:965:in `block in load_level'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:964:in `times'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:964:in `load_level'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:743:in `new_game'
+C:/Users/162010364/Desktop/1.0/bin/menu.rb:137:in `button_pressed'
+sots_game.rb:200:in `button_down'
+sots_game.rb:998:in `<main>'
+I, [2012-03-15T12:27:38.734255 #2672]  INFO -- : Program Ended
+I, [2012-03-15T12:31:10.346255 #4276]  INFO -- : Program Started
+I, [2012-03-15T12:31:13.370255 #4276]  INFO -- : New game started with profile 'Save 1'
+W, [2012-03-15T12:31:13.653255 #4276]  WARN -- : Error reading marshal file: "../core_files/levels/market_past/level_converted.dat"
+F, [2012-03-15T12:31:13.705255 #4276] FATAL -- : An undefined error has occurred
+F, [2012-03-15T12:31:13.705255 #4276] FATAL -- : undefined method `[]' for nil:NilClass (NoMethodError)
+C:/Users/162010364/Desktop/1.0/bin/map.rb:967:in `block (3 levels) in load_level'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:966:in `times'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:966:in `block (2 levels) in load_level'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:965:in `times'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:965:in `block in load_level'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:964:in `times'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:964:in `load_level'
+C:/Users/162010364/Desktop/1.0/bin/map.rb:743:in `new_game'
+C:/Users/162010364/Desktop/1.0/bin/menu.rb:137:in `button_pressed'
+sots_game.rb:200:in `button_down'
+sots_game.rb:998:in `<main>'
+I, [2012-03-15T12:31:17.227255 #4276]  INFO -- : Program Ended
+I, [2012-03-15T12:32:04.220255 #1164]  INFO -- : Program Started
+I, [2012-03-15T12:32:07.096255 #1164]  INFO -- : New game started with profile 'Save 1'
+W, [2012-03-15T12:32:07.779255 #1164]  WARN -- : Error reading marshal file: "../core_files/levels/market_past/level_converted.dat"
+I, [2012-03-15T12:33:11.276255 #1736]  INFO -- : Program Started
+I, [2012-03-15T12:33:14.366255 #1736]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:09:30.190246 #740]  INFO -- : Program Started
+I, [2012-03-15T14:09:35.246246 #740]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:09:36.218246 #740]  INFO -- : Level market_past loaded.
+I, [2012-03-15T14:11:05.547246 #1412]  INFO -- : Program Started
+I, [2012-03-15T14:11:11.652246 #1412]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:11:12.495246 #1412]  INFO -- : Level market_past loaded.
+I, [2012-03-15T14:11:53.721246 #4472]  INFO -- : Program Started
+I, [2012-03-15T14:11:57.679246 #4472]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:11:58.489246 #4472]  INFO -- : Level market_past loaded.
+I, [2012-03-15T14:12:38.260246 #4472]  INFO -- : Program Ended
+I, [2012-03-15T14:15:08.674246 #3692]  INFO -- : Program Started
+I, [2012-03-15T14:15:12.003246 #3692]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:15:13.065246 #3692]  INFO -- : Level market_past loaded.
+I, [2012-03-15T14:16:16.183246 #3692]  INFO -- : Program Ended
+I, [2012-03-15T14:19:36.609286 #616]  INFO -- : Program Started
+I, [2012-03-15T14:19:46.275037 #616]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:19:47.324037 #616]  INFO -- : Level market_past loaded.
+I, [2012-03-15T14:20:10.789037 #616]  INFO -- : Program Ended
+I, [2012-03-15T14:28:52.970099 #2108]  INFO -- : Program Started
+I, [2012-03-15T14:28:56.267252 #2108]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:29:06.764056 #2056]  INFO -- : Program Started
+I, [2012-03-15T14:29:10.151609 #2056]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:29:36.975100 #2724]  INFO -- : Program Started
+I, [2012-03-15T14:29:40.420052 #2724]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:29:41.224052 #2724]  INFO -- : Level market_past loaded.
+I, [2012-03-15T14:30:49.341052 #2724]  INFO -- : Program Ended
+I, [2012-03-15T14:32:03.149033 #1052]  INFO -- : Program Started
+I, [2012-03-15T14:32:07.290785 #1052]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-15T14:32:08.619785 #1052]  INFO -- : Level market_past loaded.
+I, [2012-03-15T14:36:26.263785 #1052]  INFO -- : Program Ended
+I, [2012-03-16T12:45:05.049129 #2128]  INFO -- : Program Started
+I, [2012-03-16T12:45:12.373766 #2128]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T12:45:34.324542 #1228]  INFO -- : Program Started
+I, [2012-03-16T12:45:38.129872 #1228]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T12:46:02.895871 #2848]  INFO -- : Program Started
+I, [2012-03-16T12:46:06.520182 #2848]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T12:49:38.302146 #1508]  INFO -- : Program Started
+I, [2012-03-16T12:49:50.838170 #3904]  INFO -- : Program Started
+I, [2012-03-16T12:49:54.024440 #3904]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T12:50:02.606145 #1208]  INFO -- : Program Started
+I, [2012-03-16T12:50:05.882424 #1208]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T12:50:07.623598 #1208]  INFO -- : Level market_past loaded.
+I, [2012-03-16T12:50:57.508586 #1208]  INFO -- : Program Ended
+I, [2012-03-16T12:51:34.946581 #3432]  INFO -- : Program Started
+I, [2012-03-16T12:51:38.180856 #3432]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T12:51:39.324970 #3432]  INFO -- : Level market_past loaded.
+I, [2012-03-16T12:52:04.664504 #3432]  INFO -- : Program Ended
+I, [2012-03-16T12:53:31.927384 #4860]  INFO -- : Program Started
+I, [2012-03-16T12:53:38.211191 #4860]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T12:53:39.239677 #4860]  INFO -- : Level market_past loaded.
+I, [2012-03-16T12:53:42.942824 #4860]  INFO -- : Program Ended
+I, [2012-03-16T12:55:43.522091 #3364]  INFO -- : Program Started
+I, [2012-03-16T12:55:47.523040 #3364]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T12:55:48.504549 #3364]  INFO -- : Level market_past loaded.
+I, [2012-03-16T12:59:59.126862 #2436]  INFO -- : Program Started
+I, [2012-03-16T13:00:03.130316 #2436]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:00:04.069222 #2436]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:00:11.987430 #2436]  INFO -- : Program Ended
+I, [2012-03-16T13:03:27.155216 #3628]  INFO -- : Program Started
+I, [2012-03-16T13:03:31.679167 #3628]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:03:50.589810 #3440]  INFO -- : Program Started
+I, [2012-03-16T13:03:54.626761 #3440]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:03:55.622761 #3440]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:03:59.141761 #3440]  INFO -- : Program Ended
+I, [2012-03-16T13:06:09.575154 #3232]  INFO -- : Program Started
+I, [2012-03-16T13:06:13.154105 #3232]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:06:14.250105 #3232]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:06:17.310105 #3232]  INFO -- : Program Ended
+I, [2012-03-16T13:27:18.178787 #300]  INFO -- : Program Started
+I, [2012-03-16T13:27:21.597982 #300]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:27:22.547077 #300]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:27:39.941010 #2884]  INFO -- : Program Started
+I, [2012-03-16T13:27:45.645435 #2884]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:27:46.541524 #2884]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:28:29.140817 #4160]  INFO -- : Program Started
+I, [2012-03-16T13:28:32.596016 #4160]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:28:33.536110 #4160]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:29:28.971653 #4160]  INFO -- : Program Ended
+I, [2012-03-16T13:31:06.280560 #2492]  INFO -- : Program Started
+I, [2012-03-16T13:31:09.852771 #2492]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:31:10.717858 #2492]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:31:25.342320 #2492]  INFO -- : Program Ended
+I, [2012-03-16T13:31:57.703623 #3980]  INFO -- : Program Started
+I, [2012-03-16T13:32:02.552962 #3980]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T13:32:03.829090 #3980]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:33:01.560863 #3980]  INFO -- : Program Ended
+I, [2012-03-16T13:35:21.737270 #2308]  INFO -- : Program Started
+I, [2012-03-16T13:35:40.268461 #2308]  INFO -- : New game started with profile 'Save 4'
+I, [2012-03-16T13:35:41.175461 #2308]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:36:34.122461 #2308]  INFO -- : Level market_past loaded.
+I, [2012-03-16T13:43:41.667461 #2308]  INFO -- : Program Ended
+I, [2012-03-16T14:21:31.862031 #4164]  INFO -- : Program Started
+I, [2012-03-16T14:21:35.381334 #4164]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T14:21:36.448441 #4164]  INFO -- : Level market_past loaded.
+I, [2012-03-16T14:21:44.248221 #4164]  INFO -- : Program Ended
+I, [2012-03-16T14:21:57.245261 #3540]  INFO -- : Program Started
+I, [2012-03-16T14:22:00.483537 #3540]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T14:22:01.378627 #3540]  INFO -- : Level market_past loaded.
+I, [2012-03-16T14:22:12.395728 #3540]  INFO -- : Program Ended
+I, [2012-03-16T14:22:20.685392 #3864]  INFO -- : Program Started
+I, [2012-03-16T14:22:24.152690 #3864]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T14:22:25.032778 #3864]  INFO -- : Level market_past loaded.
+I, [2012-03-16T14:22:54.122687 #3864]  INFO -- : Program Ended
+I, [2012-03-16T14:30:23.805660 #1368]  INFO -- : Program Started
+I, [2012-03-16T14:30:27.164946 #1368]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T14:30:28.116041 #1368]  INFO -- : Level market_past loaded.
+I, [2012-03-16T14:30:40.479278 #1368]  INFO -- : Program Ended
+I, [2012-03-16T14:31:10.853222 #3948]  INFO -- : Program Started
+I, [2012-03-16T14:31:14.364475 #3948]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T14:31:15.401579 #3948]  INFO -- : Level market_past loaded.
+I, [2012-03-16T14:31:48.099848 #3948]  INFO -- : Program Ended
+I, [2012-03-16T14:32:37.056787 #3468]  INFO -- : Program Started
+I, [2012-03-16T14:32:40.384022 #3468]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-16T14:32:41.302114 #3468]  INFO -- : Level market_past loaded.
+I, [2012-03-16T14:35:18.704853 #3468]  INFO -- : Program Ended
+I, [2012-03-19T13:54:12.615146 #2468]  INFO -- : Program Started
+I, [2012-03-19T13:54:17.466092 #2468]  INFO -- : New game started with profile 'Save 1'
+I, [2012-03-19T13:54:18.342092 #2468]  INFO -- : Level market_past loaded.
+I, [2012-03-19T13:56:14.138092 #2468]  INFO -- : Program Ended
+I, [2012-03-27T12:14:55.355469 #3816]  INFO -- : Program Started
+I, [2012-03-27T12:15:20.667000 #3816]  INFO -- : Game continued with profile 'Save 1'
+I, [2012-03-27T12:15:21.574090 #3816]  INFO -- : Level market_past loaded.
+I, [2012-03-27T12:18:01.226054 #3816]  INFO -- : Program Ended
+I, [2012-04-13T12:17:21.632746 #3420]  INFO -- : Program Started
+I, [2012-04-13T12:17:32.413746 #3420]  INFO -- : Program Ended
+I, [2012-04-13T12:17:35.428746 #1156]  INFO -- : Program Started
+I, [2012-04-13T12:17:40.185746 #1156]  INFO -- : New game started with profile 'Save 1'
+I, [2012-04-13T12:17:42.365746 #1156]  INFO -- : Level market_past loaded.
+I, [2012-04-13T12:19:54.675746 #1156]  INFO -- : Level intermediate loaded.
+I, [2012-04-13T12:25:55.320746 #1156]  INFO -- : Level swamp loaded.
+I, [2012-04-13T12:30:34.780746 #1156]  INFO -- : Level castle loaded.
+I, [2012-04-13T12:41:24.961160 #1156]  INFO -- : Level market loaded.
+I, [2012-04-13T12:41:40.965760 #1156]  INFO -- : Program Ended
+I, [2012-04-27T15:51:47.667000 #1048]  INFO -- : Program Started
+I, [2012-04-27T15:52:01.339000 #1048]  INFO -- : New game started with profile 'Save 1'
+I, [2012-04-27T15:52:03.133000 #1048]  INFO -- : Level market_past loaded.
+I, [2012-04-27T15:52:29.095000 #1048]  INFO -- : Level intermediate loaded.
+I, [2012-04-27T15:54:38.116000 #1048]  INFO -- : Level swamp loaded.
+I, [2012-04-27T15:55:54.667000 #1048]  INFO -- : Level castle loaded.
+I, [2012-04-27T15:57:06.023000 #1048]  INFO -- : Level castle loaded.
+I, [2012-04-27T15:58:43.907000 #1048]  INFO -- : Level market loaded.
+I, [2012-04-27T15:59:00.692000 #1048]  INFO -- : Program Ended
+I, [2012-04-29T18:47:48.345086 #1576]  INFO -- : Program Started
+I, [2012-04-29T18:48:03.500654 #1576]  INFO -- : New game started with profile 'Save 1'
+I, [2012-04-29T18:48:04.852732 #1576]  INFO -- : Level market_past loaded.
+I, [2012-04-29T18:48:38.299645 #1576]  INFO -- : Level intermediate loaded.
+I, [2012-04-29T18:49:45.229473 #1576]  INFO -- : Program Ended
+I, [2012-05-12T18:19:04.291070 #8120]  INFO -- : Program Started
+I, [2012-05-12T18:19:20.504997 #8120]  INFO -- : New game started with profile 'Save 1'
+I, [2012-05-12T18:19:21.523055 #8120]  INFO -- : Level market_past loaded.
+I, [2012-05-12T18:21:22.259961 #8120]  INFO -- : Level intermediate loaded.
+I, [2012-05-12T18:25:40.401726 #8120]  INFO -- : Program Ended
+I, [2012-06-25T19:59:03.182950 #27692]  INFO -- : Program Started
+I, [2012-06-25T19:59:14.861618 #27692]  INFO -- : Program Ended
+I, [2012-06-26T15:19:41.016599 #5128]  INFO -- : Program Started
+I, [2012-06-26T15:19:57.868144 #5128]  INFO -- : New game started with profile 'Save 1'
+I, [2012-06-26T15:20:01.239337 #5128]  INFO -- : Level market_past loaded.
+I, [2012-06-26T15:20:08.484751 #5128]  INFO -- : Program Ended

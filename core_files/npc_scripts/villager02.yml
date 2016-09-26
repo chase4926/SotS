@@ -1,0 +1,7 @@
+--- 
+name: Villager
+picture: bob.png
+message: |-
+  This is an
+  example message
+ignore_player: false

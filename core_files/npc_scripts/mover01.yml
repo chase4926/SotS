@@ -1,0 +1,7 @@
+--- 
+name: Mover
+picture: bob_the_mover.png
+message: |-
+  Arggh, this
+  is too heavy!
+ignore_player: true

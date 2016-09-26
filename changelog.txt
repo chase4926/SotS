@@ -1,0 +1,5 @@
+1.1=
+  - Smooth angle transition
+  - 33% Faster levels
+  - 25% Smaller level size
+  - No lag when using signs

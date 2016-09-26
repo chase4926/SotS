@@ -1,0 +1,8 @@
+--- 
+name: bob
+picture: bob.png
+message: |-
+  It is a 
+  beautiful day
+  isn't it?
+ignore_player: false

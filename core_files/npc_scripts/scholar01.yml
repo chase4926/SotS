@@ -1,0 +1,10 @@
+--- 
+name: Scholar
+picture: bob_the_scholar.png
+message: |-
+  In the north
+  there is a
+  castle with a
+  powerful sword
+  inside.
+ignore_player: false

@@ -1,0 +1,8 @@
+--- 
+name: Villager
+picture: arabic_man.png
+message: |-
+  There are
+  catacombs to
+  the North!
+ignore_player: false

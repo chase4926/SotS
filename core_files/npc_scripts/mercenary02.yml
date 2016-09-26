@@ -1,0 +1,10 @@
+--- 
+name: Mercenary
+picture: guard.png
+message: |-
+  Those two
+  need to shut
+  up about that
+  castle to the
+  north!
+ignore_player: true

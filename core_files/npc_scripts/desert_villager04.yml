@@ -1,0 +1,9 @@
+--- 
+name: desert_villager04
+picture: arabic_man.png
+message: |-
+  There have been
+  some strange 
+  noizes coming from
+  the catacombs.
+ignore_player: false

@@ -1,0 +1,9 @@
+--- 
+name: Scholar
+picture: bob_the_scholar.png
+message: |-
+  Did you find
+  anything when
+  you visited
+  the castle?
+ignore_player: false

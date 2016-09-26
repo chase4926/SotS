@@ -1,0 +1,8 @@
+--- 
+name: Villager
+picture: bob.png
+message: |-
+  There a lot of
+  rats around
+  lately...
+ignore_player: false

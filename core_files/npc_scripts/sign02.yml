@@ -1,0 +1,8 @@
+--- 
+name: Sign
+picture: sign.png
+message: |-
+  North - Castle
+  West  - Watchtower
+  South - Market
+ignore_player: true

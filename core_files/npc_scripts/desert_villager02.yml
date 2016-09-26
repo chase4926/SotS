@@ -1,0 +1,8 @@
+--- 
+name: Villager
+picture: arabic_man.png
+message: |-
+  Don't go in
+  there, it is
+  very dangerous!
+ignore_player: false
